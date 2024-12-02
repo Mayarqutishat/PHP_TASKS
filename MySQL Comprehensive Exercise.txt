@@ -8,6 +8,7 @@ CREATE TABLE Students (
     major VARCHAR(50),
     enrollment_year YEAR
 );
+test upload
 
 CREATE TABLE Courses (
     course_id INT AUTO_INCREMENT PRIMARY KEY,
